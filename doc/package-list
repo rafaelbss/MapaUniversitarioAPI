@@ -1,0 +1,8 @@
+app.web.mu.api
+app.web.mu.api.business.model
+app.web.mu.api.business.service
+app.web.mu.api.business.service.exception
+app.web.mu.api.business.service.exception.handler
+app.web.mu.api.config
+app.web.mu.api.persistence.repository
+app.web.mu.api.resources
