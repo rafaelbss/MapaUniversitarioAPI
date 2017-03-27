@@ -6,7 +6,7 @@
 	<groupId>app.web.mu.api</groupId>
 	<artifactId>MapaUniversitarioAPI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>MapaUniversitarioAPI</name>
 	<description>API RESTFul para a aplicação MapaUniversitário</description>
