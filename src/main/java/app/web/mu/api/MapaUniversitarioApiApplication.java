@@ -14,9 +14,6 @@ public class MapaUniversitarioApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MapaUniversitarioApiApplication.class, args);
-		
-		
-		System.out.println("Initing....");
 	}
 	
 	@Bean
